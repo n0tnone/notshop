@@ -38,7 +38,7 @@ def print_ascii_art():
     print(rf"{Fore.CYAN}{Style.BRIGHT}                \\                  \|_______{Fore.MAGENTA}__|                   {Fore.MAGENTA}\\         ")
     print(rf"{Fore.CYAN}{Style.BRIGHT}                 \\                                                   {Fore.MAGENTA}//               ")
     print(rf"{Fore.CYAN}{Style.BRIGHT}                  \\>=================>{Fore.RESET} Author: {Fore.YELLOW}{Style.BRIGHT}@notnone{Fore.RESET}            {Fore.MAGENTA} //              ")
-    print(rf"{Fore.CYAN}{Style.BRIGHT}                                        {Fore.RESET}Version: {Fore.YELLOW}{Style.BRIGHT}1.0.1{Fore.RESET} {Fore.MAGENTA}<===========<//               ")
+    print(rf"{Fore.CYAN}{Style.BRIGHT}                                        {Fore.RESET}Version: {Fore.YELLOW}{Style.BRIGHT}{config.GLOBAL_SCRIPT_VERSION}{Fore.RESET} {Fore.MAGENTA}<===========<//               ")
     print("\n")
 
 def cls():

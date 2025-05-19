@@ -286,3 +286,5 @@ python app/main.py
 
 ---
 *Этот документ является объединенной версией `README.md`, `PROJECT_STRUCTURE.md` и `CODING_GUIDELINES.md`.* 
+# notshop
+Online store of digital goods -> Aiogram-based marketplace
