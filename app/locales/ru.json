@@ -1,0 +1,11 @@
+{
+    "welcome": "Добро пожаловать, {name}! 👋",
+    "profile_info": "Ваш ID: <code>{user_id}</code>\nЯзык: 🇷🇺 Русский",
+    "buttons": {
+      "change_lang": "Сменить язык 🇷🇺/🇬🇧",
+      "profile": "👤 Мой профиль"
+    },
+    "errors": {
+      "general": "Произошла ошибка. Попробуйте позже."
+    }
+  }
